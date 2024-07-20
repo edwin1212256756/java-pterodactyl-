@@ -48,33 +48,33 @@ is tagged correctly.
     * `ghcr.io/pterodactyl/yolks:go_1.17`
 * [`java`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java)
   * [`java8`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/8)
-    * `ghcr.io/pterodactyl/yolks:java_8`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java8`
   * [`java8 - OpenJ9`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/8j9)
-    * `ghcr.io/pterodactyl/yolks:java_8j9`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java8j9`
   * [`java11`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/11)
-    * `ghcr.io/pterodactyl/yolks:java_11`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java11`
   * [`java11 - OpenJ9`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/11j9)
-    * `ghcr.io/pterodactyl/yolks:java_11j9`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java11j9`
   * [`java16`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/16)
-    * `ghcr.io/pterodactyl/yolks:java_16`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java16`
   * [`java16 - OpenJ9`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/16j9)
-    * `ghcr.io/pterodactyl/yolks:java_16j9`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java16j9`
   * [`java17`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/17)
-    * `ghcr.io/pterodactyl/yolks:java_17`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java17`
   * [`java17 - OpenJ9`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/17j9)
-    * `ghcr.io/pterodactyl/yolks:java_17j9`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java17j9`
   * [`java18`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/18)
-    * `ghcr.io/pterodactyl/yolks:java_18`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java18`
   * [`java18 - OpenJ9`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/18j9)
-    * `ghcr.io/pterodactyl/yolks:java_18j9`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java18j9`
   * [`java19`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/19)
-    * `ghcr.io/pterodactyl/yolks:java_19`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java19`
   * [`java19 - OpenJ9`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/19j9)
-    * `ghcr.io/pterodactyl/yolks:java_19j9`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java19j9`
   * [`java21`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/21)
-    * `ghcr.io/pterodactyl/yolks:java_21`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java21`
   * [`java22`](https://github.com/edwin1212256756/java-pterodactyl-/tree/main/java/22)
-    * `ghcr.io/pterodactyl/yolks:java_22`
+    * `ghcr.io/edwin1212256756/java-pterodactyl:java22`
 * [`nodejs`](https://github.com/pterodactyl/yolks/tree/master/nodejs)
   * [`node12`](https://github.com/pterodactyl/yolks/tree/master/nodejs/12)
     * `ghcr.io/pterodactyl/yolks:nodejs_12`
